@@ -19,7 +19,7 @@
 						<li class="tab"><a href="#home"></a>Home</li>
 						<li class="tab"><a href="#about"></a>About</li>
 						<li class="tab"><a href="#projects"></a>Projects</li>
-						<li class="tab"><a href="resume"></a>Resume</li>
+						<li class="tab"><a href="#resume"></a>Resume</li>
 					</ul>
 				</div>
 					
