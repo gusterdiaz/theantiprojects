@@ -15,9 +15,10 @@ handlers:
   static_dir: js
   
   
-- url: /(.+\.(gif|png|jpg))$
-  static_files: static/\1
-  upload: static/.*\.(gif|png|jpg)$
+- url: /(.*\.(gif|png|jpg))$
+  static_files: \1
+  upload: (.*\.(gif|png|jpg))$
+  application_readable: true
 
 - url: /.*
   script: not_found.php
