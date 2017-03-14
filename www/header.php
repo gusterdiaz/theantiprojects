@@ -13,18 +13,16 @@
 	
 		<div class="navbar-fixed">
 			<nav id="home">
-				<div class="nav-wrapper">
 				
-					<div class="nav-content">
-						<ul class="tabs tabs-transparent">
-							<li class="tab"><a href="#home"></a>Home</li>
-							<li class="tab"><a href="#about"></a>About</li>
-							<li class="tab"><a href="#projects"></a>Projects</li>
-							<li class="tab"><a href="resume"></a>Resume</li>
-						</ul>
-					</div>
-					
+				<div class="nav-content">
+					<ul class="tabs tabs-transparent">
+						<li class="tab"><a href="#home"></a>Home</li>
+						<li class="tab"><a href="#about"></a>About</li>
+						<li class="tab"><a href="#projects"></a>Projects</li>
+						<li class="tab"><a href="resume"></a>Resume</li>
+					</ul>
 				</div>
+					
 			</nav>
 		</div>
 	
