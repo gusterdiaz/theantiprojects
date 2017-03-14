@@ -12,7 +12,7 @@
 <body>
 	
 		<div class="navbar-fixed">
-			<nav id="home">
+			<nav>
 				
 				<div class="nav-content">
 					<ul class="tabs tabs-transparent">
