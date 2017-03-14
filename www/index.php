@@ -14,7 +14,7 @@
 	</div>
 	
 	
-	<div class="container">
+	<div class="container" id="home">
 		<h1>Welcome to The AntiProjects! Website is currently under construction so please be patient as I get it 
 		up and running as soon as possible</h1>
 		
