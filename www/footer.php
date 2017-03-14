@@ -11,7 +11,7 @@
 	</div>
 	<div class="footer-copyright">
 		<div class="container">
-			&copy; 2016-2017 Gustavo Diaz (The AntiProjects). All rights reserved.
+			&copy; 2016-<?php echo date("Y"); ?> Gustavo Diaz (The AntiProjects). All rights reserved.
 		</div>
 	</div>
 </footer>
