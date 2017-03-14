@@ -1,4 +1,4 @@
-<?php include('navigation.php'); ?>
+<?php include('header.php'); ?>
 	
 
 	<div class="slider">
