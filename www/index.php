@@ -3,7 +3,7 @@
 	<div class="slider">
 		<ul class="slides">
 			<li>
-				<img src="images/20161223_170728-min.jpg">
+				<img src="https://storage.googleapis.com/theantiprojects.appspot.com/manhattan-skyline.jpg">
 				<div class="caption center-align">
 					<h3>First panel</h3>
 					<h5>First panel content</h5>
