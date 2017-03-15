@@ -1,6 +1,5 @@
 <?php include('header.php'); ?>
 	
-
 	<div class="slider">
 		<ul class="slides">
 			<li>

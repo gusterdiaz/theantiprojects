@@ -1,8 +1,0 @@
-.slider {
-	height: 100vh;
-}
-
-.slider .indicators {
-	z-index: 9999;
-	bottom: 50px;	
-}
