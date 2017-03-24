@@ -6,6 +6,6 @@ function updateColor() {
 	var e = $('nav');
 	var currentColor = e.css('background-color');
 	var rgb = currentColor.replace(/^(rgb|rgba)\(/, '').replace(/\)$/, '').replace(/\s/g, '').split(',');
-	var newColor = 'rgba(' + rgb[0] + ',' + rgb[1] + ',' + rgb2[2] + ',' + trans + ')';
+	var newColor = 'rgba(' + rgb[0] + ',' + rgb[1] + ',' + rgb[2] + ',' + trans + ')';
 	e.attr('style', 'background-color: ' + newColor + ' !important;');
 }
