@@ -1,6 +1,17 @@
 /* 
 Custom stylesheet
 */
+html {
+	font-family: Raleway, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: rgba(36,76,140,0.80);
+}
+
+p {
+	font-family: Lato, sans-serif;
+}
 
 /* CENTER NAVBAR */
 .navbar-fixed.center ul {
@@ -20,8 +31,8 @@ Custom stylesheet
 
 
 /* ROW|SECTION STYLING */
-.row:nth-child(even) {background:#fff;}
-.row:nth-child(odd) {background: #ccc;}
+.row:nth-child(even) {background:##f5f5f5;}
+.row:nth-child(odd) {background: #fff;}
 
 .container {
 	min-width: 100%;
@@ -32,10 +43,18 @@ Custom stylesheet
 	width: 70%;
 }
 
+.section-header {
+	text-align: center;
+}
+
 .slider {
 	margin-top: -5em;
 }
 
 .nav-color {
 	background-color: rgba(255,255,255,0.1) !important;
+}
+
+.footer.page-footer {
+	background-color: rgba(16,54,115,0.95);
 }
