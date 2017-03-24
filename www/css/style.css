@@ -6,7 +6,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: rgba(36,76,140,0.80);
+	
 }
 
 p {
@@ -31,7 +31,7 @@ p {
 
 
 /* ROW|SECTION STYLING */
-.row:nth-child(even) {background:##f5f5f5;}
+.row:nth-child(even) {background:#f5f5f5;}
 .row:nth-child(odd) {background: #fff;}
 
 .container {
@@ -45,6 +45,7 @@ p {
 
 .section-header {
 	text-align: center;
+	color: rgba(36,76,140,0.80);
 }
 
 .slider {
@@ -55,6 +56,6 @@ p {
 	background-color: rgba(255,255,255,0.1) !important;
 }
 
-.footer.page-footer {
+footer.page-footer {
 	background-color: rgba(16,54,115,0.95);
 }
