@@ -8,14 +8,13 @@
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
 	<link type="text/css" rel="stylesheet" href="css/style.css"/>
-
+	<script src="js/navbar.js"></script>
 </head>
 <body>
-	
-		<div class="navbar-fixed">
+		<div class="navbar-fixed center">
 			<nav>
 				<div class="nav-wrapper">
-					<ul class="center">
+					<ul>
 						<li><a href="#home">Home</a></li>
 						<li><a href="#about">About</a></li>
 						<li><a href="#projects">Projects</a></li>

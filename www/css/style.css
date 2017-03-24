@@ -1,2 +1,33 @@
-.row(even) {background:#fff;}
-.row(odd) {background: #ccc;}
+/* 
+Custom stylesheet
+*/
+
+/* CENTER NAVBAR */
+.navbar-fixed.center ul {
+	text-align: center;	
+}
+
+.navbar-fixed.center ul li {
+	display: inline;
+	float: none;
+}
+
+.navbar-fixed.center ul li a {
+	display: inline-block;
+	width: 10%;	
+}
+
+
+
+/* ROW|SECTION STYLING */
+.row:nth-child(even) {background:#fff;}
+.row(odd):nth-child(odd) {background: #ccc;}
+
+.container {
+	min-width: 100%;
+}
+
+.row-section {
+	margin: 0 auto;
+	width: 70%;
+}
