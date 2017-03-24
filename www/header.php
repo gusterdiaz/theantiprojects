@@ -14,19 +14,14 @@
 	
 		<div class="navbar-fixed">
 			<nav>
-				<div class="container">
-					<div class="row">
-						<div class="col s12">
-							<ul class="tabs">
-								<li class="tab col s3"><a href="#home" target="_self">Home</a></li>
-								<li class="tab col s3"><a href="#about" target="_self">About</a></li>
-								<li class="tab col s3"><a href="#projects" target="_self">Projects</a></li>
-								<li class="tab col s3"><a href="#resume" target="_self">Resume</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-					
+				<div class="nav-wrapper">
+					<ul class="center">
+						<li><a href="#home">Home</a></li>
+						<li><a href="#about">About</a></li>
+						<li><a href="#projects">Projects</a></li>
+						<li><a href="#resume">Resume</a></li>
+					</ul>
+				</div>					
 			</nav>
 		</div>
 	
