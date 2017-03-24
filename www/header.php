@@ -11,7 +11,7 @@
 </head>
 <header>
 	<div class="navbar-fixed center" id="top">
-		<nav>
+		<nav class="nav-color">
 			<div class="nav-wrapper">
 				<ul>
 					<li><a href="#home">Home</a></li>
