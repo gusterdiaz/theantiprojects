@@ -56,6 +56,52 @@
 				tincidunt nisl. Mauris enim ligula, molestie at nibh ac, tincidunt iaculis est. Donec quis dictum sapien, a 
 				tincidunt libero. Proin et condimentum elit. In eu tristique massa. Praesent vulputate et quam et placerat.</p>
 			</div>
+			<div class="col s12 m6">
+				<div class="card">
+					<div class="card-image">
+						<img src=""/>
+						<span class="card-title">Project Title</span>
+						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
+					</div>
+					<div class="card-content">
+						<p>Short project description</p>
+					</div>
+				</div>
+				
+				<div class="card">
+					<div class="card-image">
+						<img src=""/>
+						<span class="card-title">Project Title</span>
+						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
+					</div>
+					<div class="card-content">
+						<p>Short project description</p>
+					</div>
+				</div>
+				
+				<div class="card">
+					<div class="card-image">
+						<img src=""/>
+						<span class="card-title">Project Title</span>
+						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
+					</div>
+					<div class="card-content">
+						<p>Short project description</p>
+					</div>
+				</div>
+				
+				<div class="card">
+					<div class="card-image">
+						<img src=""/>
+						<span class="card-title">Project Title</span>
+						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
+					</div>
+					<div class="card-content">
+						<p>Short project description</p>
+					</div>
+				</div>
+				
+			</div>
 		</div>
 		
 		<div class="row" id="resume">
