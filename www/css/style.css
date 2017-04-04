@@ -59,3 +59,12 @@ p {
 footer.page-footer {
 	background-color: rgba(16,54,115,0.95);
 }
+
+/* CARD STYLE */
+.card .card-title {
+	font-size: 20px;
+}
+
+.card .card-content {
+	min-height: 180px;
+}
