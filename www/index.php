@@ -56,52 +56,103 @@
 				tincidunt nisl. Mauris enim ligula, molestie at nibh ac, tincidunt iaculis est. Donec quis dictum sapien, a 
 				tincidunt libero. Proin et condimentum elit. In eu tristique massa. Praesent vulputate et quam et placerat.</p>
 			</div>
-			<div class="col s12 m6">
+			<div class="col s12 m4">
 				<div class="card">
 					<div class="card-image">
-						<img src=""/>
-						<span class="card-title">Project Title</span>
+						<img src="https://storage.googleapis.com/theantiprojects.appspot.com/manhattan-skyline.jpg"/>
 						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
 					</div>
 					<div class="card-content">
+						<span class="card-title">Wordpress Website Development : HTML, CSS, PHP</span>
 						<p>Short project description</p>
 					</div>
-				</div>
-				
-				<div class="card">
-					<div class="card-image">
-						<img src=""/>
-						<span class="card-title">Project Title</span>
-						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
-					</div>
-					<div class="card-content">
-						<p>Short project description</p>
+					<div class="card-action">
+						<a href="#">Link here</a>
 					</div>
 				</div>
-				
-				<div class="card">
-					<div class="card-image">
-						<img src=""/>
-						<span class="card-title">Project Title</span>
-						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
-					</div>
-					<div class="card-content">
-						<p>Short project description</p>
-					</div>
-				</div>
-				
-				<div class="card">
-					<div class="card-image">
-						<img src=""/>
-						<span class="card-title">Project Title</span>
-						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
-					</div>
-					<div class="card-content">
-						<p>Short project description</p>
-					</div>
-				</div>
-				
 			</div>
+			
+			<div class="col s12 m4">
+				<div class="card">
+					<div class="card-image">
+						<img src="https://storage.googleapis.com/theantiprojects.appspot.com/manhattan-skyline.jpg"/>
+						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
+					</div>
+					<div class="card-content">
+						<span class="card-title">Embedded Programming: C</span>
+						<p>Short project description</p>
+					</div>
+					<div class="card-action">
+						<a href="#">Link here</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col s12 m4">
+				<div class="card">
+					<div class="card-image">
+						<img src="https://storage.googleapis.com/theantiprojects.appspot.com/manhattan-skyline.jpg"/>
+						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
+					</div>
+					<div class="card-content">
+						<span class="card-title">Fabflix </span>
+						<p>Short project description</p>
+					</div>
+					<div class="card-action">
+						<a href="#">Link here</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col s12 m4">
+				<div class="card">
+					<div class="card-image">
+						<img src="https://storage.googleapis.com/theantiprojects.appspot.com/manhattan-skyline.jpg"/>
+						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
+					</div>
+					<div class="card-content">
+						<span class="card-title">2015 AppJam : Android</span>					
+						<p>Short project description</p>
+					</div>
+					<div class="card-action">
+						<a href="#">Link Here</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col s12 m4">
+				<div class="card">
+					<div class="card-image">
+						<img src="https://storage.googleapis.com/theantiprojects.appspot.com/manhattan-skyline.jpg"/>
+						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
+					</div>
+					<div class="card-content">
+						<span class="card-title">Google Maps API: Turn by Turn Directions: Python</span>					
+						<p>Short project description</p>
+					</div>
+					<div class="card-action">
+						<a href="#">Link Here</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col s12 m4">
+				<div class="card">
+					<div class="card-image">
+						<img src="https://storage.googleapis.com/theantiprojects.appspot.com/manhattan-skyline.jpg"/>
+						<a class="btn-floating halfway-fab waves-effect waves-light blue darken-4"><i class="material-icons">add</i></a>
+					</div>
+					<div class="card-content">
+						<span class="card-title">Othello: Python</span>					
+						<p>Short project description</p>
+					</div>
+					<div class="card-action">
+						<a href="#">Link Here</a>
+					</div>
+				</div>
+			</div>
+			
+			
 		</div>
 		
 		<div class="row" id="resume">
