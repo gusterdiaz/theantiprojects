@@ -11,11 +11,11 @@
 	<link type="text/css" rel="stylesheet" href="css/style.css"/>
 </head>
 <header>
-	<div class="navbar-fixed center active" id="home">
+	<div class="navbar-fixed center" id="home">
 		<nav class="nav-color">
 			<div class="nav-wrapper">
 				<ul>
-					<li><a href="#home">Home</a></li>
+					<li class="active"><a href="#home">Home</a></li>
 					<li><a href="#about">About</a></li>
 					<li><a href="#projects">Projects</a></li>
 					<li><a href="#resume">Resume</a></li>
