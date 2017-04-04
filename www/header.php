@@ -11,7 +11,7 @@
 	<link type="text/css" rel="stylesheet" href="css/style.css"/>
 </head>
 <header>
-	<div class="navbar-fixed center" id="top">
+	<div class="navbar-fixed center active" id="home">
 		<nav class="nav-color">
 			<div class="nav-wrapper">
 				<ul>

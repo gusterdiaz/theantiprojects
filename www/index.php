@@ -15,24 +15,7 @@
 	
 	
 	<div class="container">
-		
-		<div class="row" id="home">
-			<div class="row-section">
-				<h2 class="section-header">Welcome to The AntiProjects! Website is currently under construction so please be patient as I get it 
-				up and running as soon as possible</h2>
 				
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dignissim facilisis nulla, a pretium augue 
-				pellentesque id. Cras sed lorem efficitur, malesuada nunc a, condimentum leo. Vestibulum fermentum quam a quam
-				blandit, eu finibus arcu elementum. Vivamus sed cursus quam. Suspendisse et dolor aliquet mi fermentum 
-				tincidunt volutpat non dolor. Vivamus lobortis viverra arcu, sit amet pellentesque tellus fermentum eget. Cras 
-				a magna vitae nibh blandit iaculis at sit amet dui. Quisque sed mauris non dui pellentesque consectetur vitae 
-				a eros. Praesent eu tortor orci. In at sem ullamcorper, elementum arcu sit amet, hendrerit velit. Aliquam sed 
-				enim a felis ornare accumsan eu non ex. Donec eu tincidunt dolor, sed aliquet felis. Fusce mattis tortor vitae 
-				nisl dictum pretium. Morbi blandit fringilla velit non dictum. Phasellus a lorem euismod, volutpat sem vel, 
-				fringilla sapien.</p>
-			</div>
-		</div>
-		
 		<div class="row" id="about">
 			<div class="row-section">
 				<h2 class="section-header">About</h2>
