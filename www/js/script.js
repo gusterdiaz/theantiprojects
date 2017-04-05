@@ -11,9 +11,9 @@ $(document).ready(function() {
 
 $(document).ready(function()
 {
-	$('ul.nav li a').click(function (e)
+	$('nav ul li a').click(function (e)
 	{
-		$('ul.nav li.active').removeClass('active');
+		$('nav ul li.active').removeClass('active');
 		$(this).parent('li').addClass('active');
 	});
 });
