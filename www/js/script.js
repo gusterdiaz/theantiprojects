@@ -8,3 +8,12 @@ $(document).ready(function() {
 	});
 	$('.parallax').parallax();
 });
+
+$(document).ready(function()
+{
+	$('ul.nav li a').click(function (e)
+	{
+		$('ul.nav li.active').removeClass('active');
+		$(this).parent('li').addClass('active');
+	});
+});
